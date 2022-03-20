@@ -1,0 +1,9 @@
+app:
+  sourceLocation: 'classpath:static/soccer_teams2.json'
+  schedulerType: advanced
+  scheduleSettings:
+    startDate: 2022-03-05
+    weeksBreak: 1
+    matchWeekDay: 6
+    matchTime: '17:00'
+

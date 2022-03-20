@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "name": "app.sourceLocation",
+      "type": "java.lang.String",
+      "description": "JSON file location."
+    },
+    {
+      "name": "app.schedulerType",
+      "type": "de.wealthpilot.challenge.league.config.SchedulerType",
+      "description": "Scheduling algorithm."
+    },
+    {
+      "name": "app.scheduleSettings.startDate",
+      "type": "java.time.LocalDate",
+      "description": "start season date."
+    },
+    {
+      "name": "app.scheduleSettings.weeksBreak",
+      "type": "java.lang.Integer",
+      "description": "Weeks delay between ."
+    },
+    {
+      "name": "app.scheduleSettings.matchWeekDay",
+      "type": "java.lang.Integer",
+      "description": "Day of week."
+    },
+    {
+      "name": "app.scheduleSettings.matchTime",
+      "type": "java.time.LocalTime",
+      "description": "Match start time."
+    }
+  ]
+}

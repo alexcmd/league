@@ -1,0 +1,27 @@
+{
+  "league": "Wealthpilot first league",
+  "country": "Germany",
+  "teams": [
+    {
+      "name": "Team1",
+      "founding_date": "1998"
+    },
+    {
+      "name": "Team2",
+      "founding_date": "2000"
+    },
+    {
+      "name": "Team3"
+    },
+    {
+      "name": "Team4"
+    },
+    {
+      "name": "Team5",
+      "founding_date": "2001"
+    },
+    {
+      "name": "Team6"
+    }
+  ]
+}
