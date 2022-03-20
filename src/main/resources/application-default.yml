@@ -1,5 +1,5 @@
 app:
-  sourceLocation: 'classpath:static/soccer_teams2.json'
+  sourceLocation: 'classpath:static/soccer_teams.json'
   schedulerType: advanced
   scheduleSettings:
     startDate: 2022-03-05
